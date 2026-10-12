@@ -11,7 +11,7 @@
 
 ## About me
 
-I build machine-learning systems end to end, from the data pipeline to the model to the API that serves it, and I benchmark every one against a baseline.
+I'm an **AI Engineer** who builds AI and machine-learning systems end to end: LLM agents and fine-tuned models, the data pipelines that feed them and the APIs that serve them. I benchmark every one against a baseline.
 
 - Every result comes with its **cost, latency and limitations** next to the accuracy.
 - I like problems where **engineering decisions change business outcomes**: dollars of fraud caught, or API spend per 1,000 queries.
