@@ -4,7 +4,6 @@
 
 <p align="center">
   <a href="mailto:saadmdms03@gmail.com"><img src="https://img.shields.io/badge/Email-saadmdms03%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email: saadmdms03@gmail.com"></a>
-  <img src="https://img.shields.io/badge/status-open%20to%20work-4fd1c5?style=flat-square" alt="Open to work">
   <a href="https://github.com/saadms111/Datamind_router"><img src="https://img.shields.io/badge/project-datamind--router-7c8cff?style=flat-square" alt="datamind-router"></a>
   <a href="https://github.com/saadms111/fraud_risk_platform"><img src="https://img.shields.io/badge/project-fraud--risk--platform-4fd1c5?style=flat-square" alt="fraud-risk-platform"></a>
 </p>
