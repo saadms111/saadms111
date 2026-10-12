@@ -1,9 +1,10 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Saad Mohammed, open to AI, GenAI, ML, Data and MLOps roles" width="100%">
+  <picture><img src="assets/banner.svg" alt="Saad Mohammed, open to AI, GenAI, ML, Data and MLOps roles" width="100%"></picture>
 </p>
 
 <p align="center">
   <a href="mailto:saadmdms03@gmail.com"><img src="https://img.shields.io/badge/Email-saadmdms03%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email: saadmdms03@gmail.com"></a>
+  <picture><img src="https://img.shields.io/badge/status-open%20to%20work-4fd1c5?style=flat-square" alt="Open to work"></picture>
   <a href="https://github.com/saadms111/Datamind_router"><img src="https://img.shields.io/badge/project-datamind--router-7c8cff?style=flat-square" alt="datamind-router"></a>
   <a href="https://github.com/saadms111/fraud_risk_platform"><img src="https://img.shields.io/badge/project-fraud--risk--platform-4fd1c5?style=flat-square" alt="fraud-risk-platform"></a>
 </p>
@@ -62,7 +63,7 @@ I build machine-learning systems end to end, from the data pipeline to the model
 | **Routed, min-confidence -0.10** | **92%** | **$0.98** | 15 / 50 |
 | **Routed, min-confidence -0.05** | **98%** | **$1.51** | 26 / 50 |
 
-<img src="https://raw.githubusercontent.com/saadms111/Datamind_router/HEAD/benchmarks/accuracy_vs_cost.png" alt="Accuracy vs cost" width="80%">
+<picture><img src="https://raw.githubusercontent.com/saadms111/Datamind_router/HEAD/benchmarks/accuracy_vs_cost.png" alt="Accuracy vs cost" width="80%"></picture>
 
 </details>
 
@@ -83,33 +84,33 @@ I build machine-learning systems end to end, from the data pipeline to the model
 ## Tech I work with
 
 **ML & LLMs**<br>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
-<img src="https://img.shields.io/badge/XGBoost-1F6FEB?style=for-the-badge" alt="XGBoost">
-<img src="https://img.shields.io/badge/Optuna-2C5BB4?style=for-the-badge" alt="Optuna">
-<img src="https://img.shields.io/badge/LoRA%20%2F%20PEFT-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="LoRA / PEFT">
-<img src="https://img.shields.io/badge/vLLM-30A2FF?style=for-the-badge" alt="vLLM">
-<img src="https://img.shields.io/badge/Claude%20API-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude API">
-<img src="https://img.shields.io/badge/SHAP-8A2BE2?style=for-the-badge" alt="SHAP">
+<picture><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"></picture>
+<picture><img src="https://img.shields.io/badge/XGBoost-1F6FEB?style=for-the-badge" alt="XGBoost"></picture>
+<picture><img src="https://img.shields.io/badge/Optuna-2C5BB4?style=for-the-badge" alt="Optuna"></picture>
+<picture><img src="https://img.shields.io/badge/LoRA%20%2F%20PEFT-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="LoRA / PEFT"></picture>
+<picture><img src="https://img.shields.io/badge/vLLM-30A2FF?style=for-the-badge" alt="vLLM"></picture>
+<picture><img src="https://img.shields.io/badge/Claude%20API-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude API"></picture>
+<picture><img src="https://img.shields.io/badge/SHAP-8A2BE2?style=for-the-badge" alt="SHAP"></picture>
 
 **Data engineering**<br>
-<img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka">
-<img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt">
-<img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" alt="DuckDB">
-<img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Airflow">
-<img src="https://img.shields.io/badge/Great%20Expectations-FF6310?style=for-the-badge" alt="Great Expectations">
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+<picture><img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka"></picture>
+<picture><img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt"></picture>
+<picture><img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" alt="DuckDB"></picture>
+<picture><img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Airflow"></picture>
+<picture><img src="https://img.shields.io/badge/Great%20Expectations-FF6310?style=for-the-badge" alt="Great Expectations"></picture>
+<picture><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"></picture>
 
 **MLOps & serving**<br>
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow">
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus">
-<img src="https://img.shields.io/badge/Evidently-4B0082?style=for-the-badge" alt="Evidently">
-<img src="https://img.shields.io/badge/MCP-111111?style=for-the-badge" alt="MCP">
+<picture><img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"></picture>
+<picture><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"></picture>
+<picture><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></picture>
+<picture><img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"></picture>
+<picture><img src="https://img.shields.io/badge/Evidently-4B0082?style=for-the-badge" alt="Evidently"></picture>
+<picture><img src="https://img.shields.io/badge/MCP-111111?style=for-the-badge" alt="MCP"></picture>
 
 **Languages**<br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" alt="SQL">
+<picture><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></picture>
+<picture><img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" alt="SQL"></picture>
 
 ## How I work
 
